@@ -15,7 +15,7 @@
     Пользователь должен попасть на главную страницу с сообщением "Successfully authenticated" и авторизоваться
   
 - summary: |
-    Возможность авторизации через Discord
+    Успешная авторизация через Discord
   requirement: |
     При верном вводе логина и пароля Discord происходит успешная авторизация на codebattle
   prerequisites:
