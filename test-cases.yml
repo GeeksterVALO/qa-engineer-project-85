@@ -26,7 +26,7 @@
   steps:
     - Нажимаем кнопку "Sign In with Discord"
     - На странице авторизации Discord нажать "Авторизовать"
-     expected-result: |
+  expected-result: |
     Пользователь должен попасть на главную страницу с сообщением "Successfully authenticated" и авторизоваться
     
 - summary: |
