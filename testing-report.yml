@@ -5,7 +5,7 @@
 
 - summary: |
     Успешная авторизация через Discord
-  status: pass
+  status: fail
   
 - summary: |
     Возможность голосового чата участников через Discord
